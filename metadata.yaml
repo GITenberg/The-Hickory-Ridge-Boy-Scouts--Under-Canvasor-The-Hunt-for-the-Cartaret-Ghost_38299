@@ -1,0 +1,25 @@
+_repo: The-Hickory-Ridge-Boy-Scouts--Under-Canvasor-The-Hunt-for-the-Cartaret-Ghost_38299
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38299-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Douglas, Alan, Captain
+    gutenberg_agent_id: '9336'
+    url: http://www.gutenberg.org/2009/agents/9336
+description: ''
+gutenberg_issued: '2011-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Hickory Ridge Boy Scouts.
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+title: Under Canvas; or, The Hunt for the Cartaret Ghost
+url: http://www.gutenberg.org/ebooks/38299
